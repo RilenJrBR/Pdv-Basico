@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
-import cosnole.CleanScreen;
+import console.CleanScreen;
 import metodos.Produto;
 
 public class ProdutoDao {

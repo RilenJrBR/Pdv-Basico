@@ -5,7 +5,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
-import cosnole.CleanScreen;
+import console.CleanScreen;
 import negocios.EfetuaVenda;
 
 public class MenuDeVend {

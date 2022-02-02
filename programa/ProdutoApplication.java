@@ -6,7 +6,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
-import cosnole.CleanScreen;
+import console.CleanScreen;
 import menuVendas.MenuDeVend;
 import negocios.ProdutoDao;
 

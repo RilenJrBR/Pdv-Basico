@@ -1,4 +1,4 @@
-package cosnole;
+package console;
 
 import java.io.IOException;
 

@@ -6,8 +6,8 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
+import cosnole.CleanScreen;
 import menuVendas.MenuDeVend;
-import metodos.CleanScreen;
 import negocios.ProdutoDao;
 
 
